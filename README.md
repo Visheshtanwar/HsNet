@@ -25,21 +25,13 @@ Reported HEASNet complexity: **22.98 M parameters** and **2.88 GMACs** (approxim
 
 ![Dataset test performance](results/figures/summary/dataset_test_performance.svg)
 
-![HyperKvasir baseline comparison](results/figures/summary/hyperkvasir_baseline_accuracy.svg)
+
 
 ![Model complexity](results/figures/summary/model_complexity.svg)
 
-## HyperKvasir baseline comparison
 
-| Model | Parameters (M) | GMACs | Test accuracy | Test macro-F1 |
-|---|---:|---:|---:|---:|
-| ResNet50 | 23.53 | 4.0872 | 94.10% | 93.90% |
-| EfficientNetV2-S | 20.19 | 2.8486 | 95.32% | 95.08% |
-| ConvNeXt-T | 27.83 | 4.4548 | **95.90%** | **95.72%** |
-| ViT-B/16 | 85.81 | 11.2704 | 95.21% | 94.89% |
-| HEASNet | 22.98 | 2.8808 | 95.02% | 94.70% |
 
-ConvNeXt-T achieved the highest reported baseline accuracy. HEASNet is competitive and substantially smaller than ViT-B/16, but it does **not** outperform every baseline. Detailed tables: [baseline CSV](results/tables/hyperkvasir_baseline_comparison.csv) and [ablation CSV](results/tables/hyperkvasir_ablation.csv).
+
 
 ## Experimental configuration
 
