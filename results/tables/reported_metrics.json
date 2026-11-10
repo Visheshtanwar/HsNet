@@ -1,0 +1,25 @@
+{
+  "HyperKvasir": {
+    "test_images": 2609, "accuracy": 0.950172, "macro_precision": 0.946803,
+    "macro_recall": 0.947692, "macro_f1": 0.946956, "weighted_f1": 0.949913,
+    "macro_roc_auc_ovr": 0.990799, "micro_roc_auc": 0.992276,
+    "cohen_kappa": 0.945363, "mcc": 0.945401,
+    "accuracy_bootstrap_95ci": [0.942123, 0.958222],
+    "best_validation_accuracy": 0.95, "best_epoch": 35,
+    "parameters_M": 22.975612, "GMACs": 2.880767
+  },
+  "Kvasir-V2": {
+    "test_images": 1200, "accuracy": 0.916667, "macro_precision": 0.918903,
+    "macro_recall": 0.916667, "macro_f1": 0.916436, "weighted_f1": 0.916436,
+    "macro_roc_auc_ovr": 0.983453, "micro_roc_auc": 0.983705,
+    "cohen_kappa": 0.904762, "mcc": 0.905153,
+    "accuracy_bootstrap_95ci": [0.901646, 0.931667],
+    "best_validation_accuracy": 0.921667, "best_epoch": 38,
+    "parameters_M": 22.97356, "GMACs": 2.880765
+  },
+  "notes": [
+    "Metrics are transcribed from the completed notebook outputs.",
+    "Near-duplicate test-to-training matches: 13.49% for HyperKvasir and 16.58% for Kvasir-V2.",
+    "Cross-dataset audit reports 12.92% overlap between Kvasir-V2 test images and HyperKvasir images; interpret cross-dataset generalization accordingly."
+  ]
+}

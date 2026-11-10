@@ -1,0 +1,24 @@
+{
+  "project": "HEASNet",
+  "source_notebook": "final-experiment-hsnet.ipynb",
+  "organization": "16 ordered Python modules under heasnet/",
+  "entry_point": "run_experiment.py",
+  "datasets": ["HyperKvasir", "Kvasir-V2"],
+  "reported_metrics": "results/tables/reported_metrics.json",
+  "tables": [
+    "results/tables/cross_dataset_summary.csv",
+    "results/tables/hyperkvasir_baseline_comparison.csv",
+    "results/tables/hyperkvasir_ablation.csv"
+  ],
+  "summary_figures": [
+    "results/figures/summary/dataset_test_performance.svg",
+    "results/figures/summary/hyperkvasir_baseline_accuracy.svg",
+    "results/figures/summary/model_complexity.svg"
+  ],
+  "full_notebook_figure_export_count": 50,
+  "note": "The 50 full PNG exports are included in the companion project ZIP; the GitHub repository stores compact SVG summary figures.",
+  "validation": {
+    "python_syntax_compilation": "passed before repository upload",
+    "end_to_end_dataset_gpu_run": "not performed as part of repository organization"
+  }
+}

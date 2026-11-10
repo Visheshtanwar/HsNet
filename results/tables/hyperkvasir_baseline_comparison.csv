@@ -1,0 +1,6 @@
+model,parameters_M,GMACs,test_accuracy,test_macro_f1,test_macro_roc_auc_ovr
+ResNet50,23.5326,4.0872,0.941,0.939,0.9947
+EfficientNetV2-S,20.1929,2.8486,0.9532,0.9508,0.9943
+ConvNeXt-T,27.8294,4.4548,0.959,0.9572,0.9947
+ViT-B/16,85.8079,11.2704,0.9521,0.9489,0.9945
+HEASNet (proposed),22.9756,2.8808,0.9502,0.947,0.9908
