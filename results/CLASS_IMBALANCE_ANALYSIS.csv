@@ -1,5 +1,5 @@
 subset,min_class,min_count,max_class,max_count,imbalance_ratio_max_over_min,coefficient_of_variation
-train,dyed-lifted-polyps,502,dyed-resection-margins,522,1.0398406374501992,0.011710112985077722
-validation,dyed-resection-margins,78,dyed-lifted-polyps,98,1.2564102564102564,0.06635730691544042
-test,retroflex-rectum,98,bbps-2-3,287,2.9285714285714284,0.23652945169339534
-total,retroflex-rectum,698,bbps-2-3,887,1.2707736389684814,0.06291215612886823
+train,dyed-lifted-polyps,700,dyed-lifted-polyps,700,1.0,0.0
+validation,dyed-lifted-polyps,150,dyed-lifted-polyps,150,1.0,0.0
+test,dyed-lifted-polyps,150,dyed-lifted-polyps,150,1.0,0.0
+total,dyed-lifted-polyps,1000,dyed-lifted-polyps,1000,1.0,0.0

@@ -1,0 +1,43 @@
+{
+  "bootstrap_reps": 1000,
+  "bootstrap_95CI": {
+    "accuracy": [
+      0.9016458333333333,
+      0.9316666666666666
+    ],
+    "macro_f1": [
+      0.9006726794594031,
+      0.9316751506098871
+    ],
+    "macro_roc_auc_ovr": [
+      0.9776766034490727,
+      0.9884277852552189
+    ],
+    "cohen_kappa": [
+      0.8873858630140611,
+      0.9218704918073732
+    ],
+    "mcc": [
+      0.8877881636698015,
+      0.922377861019634
+    ],
+    "ece_15_bins": [
+      0.014092549478014343,
+      0.03522942013914386
+    ]
+  },
+  "accuracy_wilson_95CI": [
+    0.8996675148419543,
+    0.9310065539059605
+  ],
+  "binomial_vs_uniform_chance_p": 0.0,
+  "binomial_vs_test_majority_rate_p": 0.0,
+  "test_majority_class_rate": 0.125,
+  "McNemar_vs_training_majority_baseline": {
+    "baseline_class": "normal-z-line",
+    "only_HEASNet_correct": 967,
+    "only_baseline_correct": 17,
+    "discordant": 984,
+    "exact_p": 2.3157208135112636e-260
+  }
+}

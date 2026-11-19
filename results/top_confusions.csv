@@ -1,0 +1,13 @@
+true_class,predicted_class,count,percent_of_true_class
+esophagitis,normal-z-line,35,23.333333333333332
+normal-z-line,esophagitis,17,11.333333333333334
+dyed-lifted-polyps,dyed-resection-margins,12,8.0
+polyps,normal-cecum,11,7.333333333333333
+dyed-resection-margins,dyed-lifted-polyps,5,3.3333333333333335
+ulcerative-colitis,normal-cecum,4,2.6666666666666665
+polyps,ulcerative-colitis,4,2.6666666666666665
+normal-cecum,ulcerative-colitis,3,2.0
+polyps,normal-pylorus,2,1.3333333333333333
+polyps,dyed-lifted-polyps,2,1.3333333333333333
+ulcerative-colitis,polyps,2,1.3333333333333333
+normal-pylorus,esophagitis,1,0.6666666666666666

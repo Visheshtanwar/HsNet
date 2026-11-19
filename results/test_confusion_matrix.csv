@@ -1,0 +1,9 @@
+,dyed-lifted-polyps,dyed-resection-margins,esophagitis,normal-cecum,normal-pylorus,normal-z-line,polyps,ulcerative-colitis
+dyed-lifted-polyps,138,12,0,0,0,0,0,0
+dyed-resection-margins,5,145,0,0,0,0,0,0
+esophagitis,0,0,115,0,0,35,0,0
+normal-cecum,0,0,0,147,0,0,0,3
+normal-pylorus,0,0,1,0,148,0,0,1
+normal-z-line,0,0,17,0,0,133,0,0
+polyps,2,0,0,11,2,0,131,4
+ulcerative-colitis,0,0,1,4,0,0,2,143

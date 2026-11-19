@@ -1,0 +1,9 @@
+class,auc_ovr
+dyed-lifted-polyps,0.9896507936507938
+dyed-resection-margins,0.9931746031746032
+esophagitis,0.9334031746031746
+normal-cecum,0.9982222222222222
+normal-pylorus,0.9963174603174603
+normal-z-line,0.972768253968254
+polyps,0.9855174603174602
+ulcerative-colitis,0.9985714285714287

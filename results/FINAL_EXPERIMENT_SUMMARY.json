@@ -1,0 +1,163 @@
+{
+  "dataset": "Kvasir-V2",
+  "num_images": 8000,
+  "num_classes": 8,
+  "classes": [
+    "dyed-lifted-polyps",
+    "dyed-resection-margins",
+    "esophagitis",
+    "normal-cecum",
+    "normal-pylorus",
+    "normal-z-line",
+    "polyps",
+    "ulcerative-colitis"
+  ],
+  "train": 5600,
+  "validation": 1200,
+  "test": 1200,
+  "best_epoch": 38,
+  "best_val_accuracy": 0.9216666666666666,
+  "timing": {
+    "total_training_and_validation_seconds": 2820.903207063675,
+    "total_minutes": 47.01505345106125,
+    "mean_epoch_seconds": 70.52258017659187,
+    "mean_head_epoch_seconds": 85.44966659545898,
+    "mean_finetune_epoch_seconds": 68.39013925961086,
+    "peak_gpu_allocated_MB_training": 1663.369728,
+    "best_epoch": 38,
+    "best_val_accuracy": 0.9216666666666666
+  },
+  "split_metrics": {
+    "train": {
+      "n": 5600,
+      "accuracy": 1.0,
+      "macro_precision": 1.0,
+      "macro_recall": 1.0,
+      "macro_f1": 1.0,
+      "weighted_f1": 1.0,
+      "cohen_kappa": 1.0,
+      "mcc": 1.0,
+      "macro_roc_auc_ovr": 1.0,
+      "micro_roc_auc": 1.0,
+      "log_loss": 0.04205592775372609,
+      "brier_score_probability_MSE": 0.00197440583464212,
+      "ece_15_bins": 0.041170656255313326,
+      "mce_15_bins": 0.15754276514053345,
+      "macro_average_precision": 1.0
+    },
+    "validation": {
+      "n": 1200,
+      "accuracy": 0.9216666666666666,
+      "macro_precision": 0.9225185111520302,
+      "macro_recall": 0.9216666666666666,
+      "macro_f1": 0.9214670106213112,
+      "weighted_f1": 0.9214670106213112,
+      "cohen_kappa": 0.9104761904761904,
+      "mcc": 0.9106424340314138,
+      "macro_roc_auc_ovr": 0.9827873015873015,
+      "micro_roc_auc": 0.9831180555555555,
+      "log_loss": 0.3327600517443062,
+      "brier_score_probability_MSE": 0.13596724863610327,
+      "ece_15_bins": 0.020788295020659812,
+      "mce_15_bins": 0.5477203130722046,
+      "macro_average_precision": 0.9315725062070401
+    },
+    "test": {
+      "n": 1200,
+      "accuracy": 0.9166666666666666,
+      "macro_precision": 0.9189028733051567,
+      "macro_recall": 0.9166666666666667,
+      "macro_f1": 0.9164364118488464,
+      "weighted_f1": 0.9164364118488463,
+      "cohen_kappa": 0.9047619047619048,
+      "mcc": 0.9051527852838555,
+      "macro_roc_auc_ovr": 0.9834531746031747,
+      "micro_roc_auc": 0.9837045138888888,
+      "log_loss": 0.33864650199439333,
+      "brier_score_probability_MSE": 0.13865097649224795,
+      "ece_15_bins": 0.01887262396514416,
+      "mce_15_bins": 0.3932447135448456,
+      "macro_average_precision": 0.9215795367499283
+    }
+  },
+  "statistics": {
+    "bootstrap_reps": 1000,
+    "bootstrap_95CI": {
+      "accuracy": [
+        0.9016458333333333,
+        0.9316666666666666
+      ],
+      "macro_f1": [
+        0.9006726794594031,
+        0.9316751506098871
+      ],
+      "macro_roc_auc_ovr": [
+        0.9776766034490727,
+        0.9884277852552189
+      ],
+      "cohen_kappa": [
+        0.8873858630140611,
+        0.9218704918073732
+      ],
+      "mcc": [
+        0.8877881636698015,
+        0.922377861019634
+      ],
+      "ece_15_bins": [
+        0.014092549478014343,
+        0.03522942013914386
+      ]
+    },
+    "accuracy_wilson_95CI": [
+      0.8996675148419543,
+      0.9310065539059605
+    ],
+    "binomial_vs_uniform_chance_p": 0.0,
+    "binomial_vs_test_majority_rate_p": 0.0,
+    "test_majority_class_rate": 0.125,
+    "McNemar_vs_training_majority_baseline": {
+      "baseline_class": "normal-z-line",
+      "only_HEASNet_correct": 967,
+      "only_baseline_correct": 17,
+      "discordant": 984,
+      "exact_p": 2.3157208135112636e-260
+    }
+  },
+  "calibration": {
+    "mean_confidence": 0.9355393648147583,
+    "accuracy": 0.9166666666666666,
+    "mean_conf_correct": 0.9448626041412354,
+    "mean_conf_wrong": 0.8329834938049316
+  },
+  "near_duplicates": {
+    "train_original_images": 5600,
+    "test_images": 1200,
+    "test_with_near_duplicate_in_train": 199,
+    "test_near_duplicate_percent": 16.583333333333332,
+    "test_exact_duplicates": 7,
+    "test_exact_duplicate_percent": 0.5833333333333334,
+    "validation_with_near_duplicate_in_train": 177,
+    "validation_near_duplicate_percent": 14.75,
+    "accuracy_on_test_with_duplicate": 0.8994974874371859,
+    "accuracy_on_test_without_duplicate": 0.9200799200799201,
+    "accuracy_all_test": 0.9166666666666666,
+    "n_test_without_duplicate": 1001
+  },
+  "complexity": {
+    "model": "HEASNet",
+    "parameters_total": 22973560,
+    "parameters_trainable": 22973560,
+    "parameters_million": 22.97356,
+    "weights_fp32_MB": 91.89424,
+    "weights_fp16_MB": 45.94712,
+    "input_shape": [
+      1,
+      3,
+      224,
+      224
+    ],
+    "gmacs": 2.880765376,
+    "gflops": 5.761530752,
+    "flop_note": "torch.utils.flop_counter: counts matmul/conv/attention multiply-adds (1 MAC = 2 FLOPs); element-wise ops, norms and activations are not counted."
+  }
+}
