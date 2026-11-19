@@ -1,0 +1,13 @@
+class,n_test,green_box_%,black_corner_box_%
+Bbps-0-1,162,96.29629629629629,0.0
+Bbps-2-3,287,99.65156794425087,0.0
+Cecum,253,96.44268774703558,0.0
+Dyed-lifted-polyps,251,59.36254980079681,0.0
+Dyed-resection-margins,248,56.048387096774185,0.0
+Esophagitis,166,0.0,0.0
+Polyps,257,0.7782101167315175,49.0272373540856
+Pylorus,250,0.0,0.0
+Retroflex-rectum,98,37.755102040816325,0.0
+Retroflex-stomach,191,0.0,0.0
+Ulcerative-colitis,213,38.028169014084504,0.0
+Z-line,233,0.0,0.0
