@@ -1,0 +1,9 @@
+class,n_test,green_box_%,black_corner_box_%
+Dyed-lifted-polyps,150,60.66666666666667,0.0
+Dyed-resection-margins,150,56.666666666666664,0.0
+Esophagitis,150,0.0,0.0
+Normal-cecum,150,96.66666666666667,0.0
+Normal-pylorus,150,0.0,0.0
+Normal-z-line,150,0.0,0.0
+Polyps,150,48.0,0.0
+Ulcerative-colitis,150,32.0,0.0
