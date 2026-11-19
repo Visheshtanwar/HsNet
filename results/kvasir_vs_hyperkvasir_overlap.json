@@ -1,0 +1,7 @@
+{
+  "kvasir_test_images": 1200,
+  "overlap_with_hyperkvasir": 155,
+  "overlap_percent": 12.916666666666668,
+  "kvasir_acc_on_overlap": 0.9290322580645162,
+  "kvasir_acc_non_overlap": 0.9148325358851674
+}
