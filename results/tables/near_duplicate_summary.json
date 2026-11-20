@@ -1,0 +1,14 @@
+{
+  "train_original_images": 5649,
+  "test_images": 2609,
+  "test_with_near_duplicate_in_train": 352,
+  "test_near_duplicate_percent": 13.491759294748945,
+  "test_exact_duplicates": 38,
+  "test_exact_duplicate_percent": 1.4564967420467612,
+  "validation_with_near_duplicate_in_train": 126,
+  "validation_near_duplicate_percent": 11.666666666666666,
+  "accuracy_on_test_with_duplicate": 0.9829545454545454,
+  "accuracy_on_test_without_duplicate": 0.9450598139122729,
+  "accuracy_all_test": 0.9501724798773477,
+  "n_test_without_duplicate": 2257
+}

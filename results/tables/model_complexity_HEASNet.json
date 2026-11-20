@@ -1,0 +1,55 @@
+{
+  "model": "HEASNet",
+  "parameters_total": 22975612,
+  "parameters_trainable": 22975612,
+  "parameters_million": 22.975612,
+  "weights_fp32_MB": 91.902448,
+  "weights_fp16_MB": 45.951224,
+  "input_shape": [
+    1,
+    3,
+    224,
+    224
+  ],
+  "gmacs": 2.880767424,
+  "gflops": 5.761534848,
+  "flop_note": "torch.utils.flop_counter: counts matmul/conv/attention multiply-adds (1 MAC = 2 FLOPs); element-wise ops, norms and activations are not counted.",
+  "breakdown": [
+    {
+      "module": "EfficientNetV2-S backbone",
+      "parameters": 20177488,
+      "GMACs": 2.848615872,
+      "percent_of_GMACs": 98.88392406370116
+    },
+    {
+      "module": "1x1 projection",
+      "parameters": 655360,
+      "GMACs": 0.03211264,
+      "percent_of_GMACs": 1.1147251851178945
+    },
+    {
+      "module": "SE",
+      "parameters": 33312,
+      "GMACs": 3.2768e-05,
+      "percent_of_GMACs": 0.0011374746786917292
+    },
+    {
+      "module": "Window attention",
+      "parameters": 1051648,
+      "GMACs": 0.0,
+      "percent_of_GMACs": 0.0
+    },
+    {
+      "module": "Axial attention (height)",
+      "parameters": 1051648,
+      "GMACs": 0.0,
+      "percent_of_GMACs": 0.0
+    },
+    {
+      "module": "Classifier",
+      "parameters": 6156,
+      "GMACs": 6.144e-06,
+      "percent_of_GMACs": 0.0002132765022546992
+    }
+  ]
+}

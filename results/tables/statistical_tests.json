@@ -1,0 +1,43 @@
+{
+  "bootstrap_reps": 1000,
+  "bootstrap_95CI": {
+    "accuracy": [
+      0.9421234189344576,
+      0.9582215408202377
+    ],
+    "macro_f1": [
+      0.9377293431707531,
+      0.9554149303836843
+    ],
+    "macro_roc_auc_ovr": [
+      0.9874536039105711,
+      0.9937451619290788
+    ],
+    "cohen_kappa": [
+      0.9365391012619129,
+      0.9540784769019495
+    ],
+    "mcc": [
+      0.936601975502843,
+      0.9541214226765393
+    ],
+    "ece_15_bins": [
+      0.01957578373171217,
+      0.033718401094810786
+    ]
+  },
+  "accuracy_wilson_95CI": [
+    0.9411411366936933,
+    0.9578800668878786
+  ],
+  "binomial_vs_uniform_chance_p": 0.0,
+  "binomial_vs_test_majority_rate_p": 0.0,
+  "test_majority_class_rate": 0.11000383288616328,
+  "McNemar_vs_training_majority_baseline": {
+    "baseline_class": "dyed-resection-margins",
+    "only_HEASNet_correct": 2247,
+    "only_baseline_correct": 16,
+    "discordant": 2263,
+    "exact_p": 0.0
+  }
+}

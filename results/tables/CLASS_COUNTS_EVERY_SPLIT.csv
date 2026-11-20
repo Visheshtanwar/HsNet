@@ -1,0 +1,13 @@
+class,train,validation,test,total
+bbps-0-1,520,80,162,762
+bbps-2-3,514,86,287,887
+cecum,504,96,253,853
+dyed-lifted-polyps,502,98,251,851
+dyed-resection-margins,522,78,248,848
+esophagitis,504,96,166,766
+polyps,511,89,257,857
+pylorus,512,88,250,850
+retroflex-rectum,509,91,98,698
+retroflex-stomach,506,94,191,791
+ulcerative-colitis,507,93,213,813
+z-line,509,91,233,833

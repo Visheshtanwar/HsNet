@@ -1,0 +1,13 @@
+,bbps-0-1,bbps-2-3,cecum,dyed-lifted-polyps,dyed-resection-margins,esophagitis,polyps,pylorus,retroflex-rectum,retroflex-stomach,ulcerative-colitis,z-line
+bbps-0-1,520,0,0,0,0,0,0,0,0,0,0,0
+bbps-2-3,0,514,0,0,0,0,0,0,0,0,0,0
+cecum,0,0,504,0,0,0,0,0,0,0,0,0
+dyed-lifted-polyps,0,0,0,502,0,0,0,0,0,0,0,0
+dyed-resection-margins,0,0,0,0,522,0,0,0,0,0,0,0
+esophagitis,0,0,0,0,0,504,0,0,0,0,0,0
+polyps,0,0,0,0,0,0,511,0,0,0,0,0
+pylorus,0,0,0,0,0,0,0,512,0,0,0,0
+retroflex-rectum,0,0,0,0,0,0,0,0,509,0,0,0
+retroflex-stomach,0,0,0,0,0,0,0,0,0,506,0,0
+ulcerative-colitis,0,0,0,0,0,0,0,0,0,0,507,0
+z-line,0,0,0,0,0,0,0,0,0,0,0,509

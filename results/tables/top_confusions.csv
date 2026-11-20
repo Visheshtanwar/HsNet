@@ -1,0 +1,13 @@
+true_class,predicted_class,count,percent_of_true_class
+esophagitis,z-line,40,24.096385542168676
+z-line,esophagitis,28,12.017167381974248
+dyed-lifted-polyps,dyed-resection-margins,19,7.569721115537849
+dyed-resection-margins,dyed-lifted-polyps,14,5.645161290322581
+cecum,ulcerative-colitis,7,2.766798418972332
+bbps-0-1,bbps-2-3,2,1.2345679012345678
+bbps-0-1,ulcerative-colitis,2,1.2345679012345678
+retroflex-stomach,retroflex-rectum,2,1.0471204188481675
+polyps,retroflex-rectum,2,0.7782101167315175
+esophagitis,pylorus,2,1.2048192771084338
+bbps-2-3,bbps-0-1,2,0.6968641114982579
+polyps,pylorus,2,0.7782101167315175

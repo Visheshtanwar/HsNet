@@ -1,0 +1,10 @@
+{
+  "total_training_and_validation_seconds": 2752.6286759376526,
+  "total_minutes": 45.877144598960875,
+  "mean_epoch_seconds": 68.81571689844131,
+  "mean_head_epoch_seconds": 80.12176251411438,
+  "mean_finetune_epoch_seconds": 67.20056752477373,
+  "peak_gpu_allocated_MB_training": 1663.975936,
+  "best_epoch": 35,
+  "best_val_accuracy": 0.95
+}

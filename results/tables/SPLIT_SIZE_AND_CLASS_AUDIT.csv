@@ -1,0 +1,4 @@
+split,images,percentage_of_dataset,number_of_classes_present,missing_classes
+train,6120,62.39168110918544,12,
+validation,1080,11.010296666326843,12,
+test,2609,26.598022224487714,12,

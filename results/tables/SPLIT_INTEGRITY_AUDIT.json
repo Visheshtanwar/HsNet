@@ -1,0 +1,30 @@
+{
+  "class_names": [
+    "bbps-0-1",
+    "bbps-2-3",
+    "cecum",
+    "dyed-lifted-polyps",
+    "dyed-resection-margins",
+    "esophagitis",
+    "polyps",
+    "pylorus",
+    "retroflex-rectum",
+    "retroflex-stomach",
+    "ulcerative-colitis",
+    "z-line"
+  ],
+  "number_of_classes": 12,
+  "split_sizes": {
+    "train": 6120,
+    "validation": 1080,
+    "test": 2609
+  },
+  "overlap_counts": {
+    "train_validation": 0,
+    "train_test": 0,
+    "validation_test": 0
+  },
+  "all_classes_in_train": true,
+  "all_classes_in_validation": true,
+  "all_classes_in_test": true
+}
