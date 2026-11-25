@@ -1,0 +1,200 @@
+fill,masked_region,true_class,new_prediction,images,%_of_true_class
+black,border text/graphics,Bbps-2-3,Cecum,16,5.574912891986063
+black,border text/graphics,Bbps-2-3,Polyps,15,5.2264808362369335
+black,border text/graphics,Ulcerative-colitis,Polyps,10,4.694835680751174
+black,border text/graphics,Retroflex-rectum,Ulcerative-colitis,6,6.122448979591836
+black,border text/graphics,Dyed-lifted-polyps,Dyed-resection-margins,5,1.9920318725099602
+black,border text/graphics,Ulcerative-colitis,Ulcerative-colitis,3,1.408450704225352
+black,border text/graphics,Bbps-2-3,Ulcerative-colitis,2,0.6968641114982579
+black,border text/graphics,Dyed-resection-margins,Dyed-lifted-polyps,2,0.8064516129032258
+black,border text/graphics,Dyed-resection-margins,Dyed-resection-margins,2,0.8064516129032258
+black,border text/graphics,Esophagitis,Z-line,2,1.2048192771084338
+black,border text/graphics,Z-line,Esophagitis,2,0.8583690987124464
+black,border text/graphics,Bbps-0-1,Cecum,1,0.6172839506172839
+black,border text/graphics,Bbps-2-3,Z-line,1,0.34843205574912894
+black,border text/graphics,Cecum,Dyed-resection-margins,1,0.3952569169960474
+black,border text/graphics,Cecum,Ulcerative-colitis,1,0.3952569169960474
+black,border text/graphics,Dyed-lifted-polyps,Dyed-lifted-polyps,1,0.398406374501992
+black,border text/graphics,Dyed-lifted-polyps,Polyps,1,0.398406374501992
+black,border text/graphics,Esophagitis,Esophagitis,1,0.6024096385542169
+black,border text/graphics,Polyps,Bbps-0-1,1,0.38910505836575876
+black,border text/graphics,Retroflex-rectum,Dyed-lifted-polyps,1,1.0204081632653061
+black,border text/graphics,Retroflex-rectum,Retroflex-stomach,1,1.0204081632653061
+black,border text/graphics,Retroflex-stomach,Pylorus,1,0.5235602094240838
+black,border text/graphics,Ulcerative-colitis,Cecum,1,0.4694835680751174
+black,border text/graphics,Ulcerative-colitis,Dyed-lifted-polyps,1,0.4694835680751174
+black,border text/graphics,Z-line,Polyps,1,0.4291845493562232
+black,border text/graphics,Z-line,Z-line,1,0.4291845493562232
+black,both overlays,Bbps-2-3,Polyps,271,94.42508710801394
+black,both overlays,Cecum,Polyps,178,70.35573122529644
+black,both overlays,Cecum,Ulcerative-colitis,28,11.067193675889328
+black,both overlays,Bbps-0-1,Polyps,24,14.814814814814815
+black,both overlays,Bbps-2-3,Ulcerative-colitis,12,4.181184668989547
+black,both overlays,Ulcerative-colitis,Polyps,11,5.164319248826291
+black,both overlays,Dyed-lifted-polyps,Polyps,7,2.7888446215139444
+black,both overlays,Cecum,Bbps-0-1,6,2.3715415019762847
+black,both overlays,Dyed-lifted-polyps,Dyed-resection-margins,5,1.9920318725099602
+black,both overlays,Retroflex-rectum,Ulcerative-colitis,5,5.1020408163265305
+black,both overlays,Dyed-resection-margins,Dyed-lifted-polyps,3,1.2096774193548387
+black,both overlays,Ulcerative-colitis,Ulcerative-colitis,3,1.408450704225352
+black,both overlays,Dyed-resection-margins,Dyed-resection-margins,2,0.8064516129032258
+black,both overlays,Esophagitis,Z-line,2,1.2048192771084338
+black,both overlays,Retroflex-rectum,Polyps,2,2.0408163265306123
+black,both overlays,Retroflex-rectum,Retroflex-stomach,2,2.0408163265306123
+black,both overlays,Z-line,Esophagitis,2,0.8583690987124464
+black,both overlays,Bbps-0-1,Pylorus,1,0.6172839506172839
+black,both overlays,Bbps-2-3,Pylorus,1,0.34843205574912894
+black,both overlays,Dyed-lifted-polyps,Esophagitis,1,0.398406374501992
+black,both overlays,Dyed-resection-margins,Bbps-0-1,1,0.4032258064516129
+black,both overlays,Dyed-resection-margins,Polyps,1,0.4032258064516129
+black,both overlays,Dyed-resection-margins,Ulcerative-colitis,1,0.4032258064516129
+black,both overlays,Esophagitis,Esophagitis,1,0.6024096385542169
+black,both overlays,Retroflex-rectum,Dyed-lifted-polyps,1,1.0204081632653061
+black,both overlays,Retroflex-stomach,Pylorus,1,0.5235602094240838
+black,both overlays,Ulcerative-colitis,Dyed-lifted-polyps,1,0.4694835680751174
+black,both overlays,Z-line,Polyps,1,0.4291845493562232
+black,both overlays,Z-line,Z-line,1,0.4291845493562232
+black,control: green-box shape moved,Dyed-lifted-polyps,Dyed-resection-margins,12,4.780876494023905
+black,control: green-box shape moved,Dyed-resection-margins,Dyed-lifted-polyps,10,4.032258064516129
+black,control: green-box shape moved,Dyed-lifted-polyps,Dyed-lifted-polyps,2,0.796812749003984
+black,control: green-box shape moved,Dyed-resection-margins,Dyed-resection-margins,2,0.8064516129032258
+black,control: green-box shape moved,Bbps-0-1,Bbps-2-3,1,0.6172839506172839
+black,control: green-box shape moved,Cecum,Ulcerative-colitis,1,0.3952569169960474
+black,control: green-box shape moved,Retroflex-rectum,Ulcerative-colitis,1,1.0204081632653061
+black,control: text area moved,Dyed-lifted-polyps,Dyed-resection-margins,7,2.7888446215139444
+black,control: text area moved,Dyed-resection-margins,Dyed-lifted-polyps,5,2.0161290322580645
+black,control: text area moved,Z-line,Esophagitis,5,2.1459227467811157
+black,control: text area moved,Ulcerative-colitis,Cecum,3,1.408450704225352
+black,control: text area moved,Dyed-resection-margins,Dyed-resection-margins,2,0.8064516129032258
+black,control: text area moved,Ulcerative-colitis,Ulcerative-colitis,2,0.9389671361502347
+black,control: text area moved,Cecum,Cecum,1,0.3952569169960474
+black,control: text area moved,Dyed-lifted-polyps,Dyed-lifted-polyps,1,0.398406374501992
+black,control: text area moved,Dyed-lifted-polyps,Polyps,1,0.398406374501992
+black,control: text area moved,Dyed-resection-margins,Cecum,1,0.4032258064516129
+black,control: text area moved,Dyed-resection-margins,Ulcerative-colitis,1,0.4032258064516129
+black,control: text area moved,Polyps,Bbps-0-1,1,0.38910505836575876
+black,control: text area moved,Polyps,Retroflex-rectum,1,0.38910505836575876
+black,control: text area moved,Retroflex-rectum,Ulcerative-colitis,1,1.0204081632653061
+black,control: text area moved,Retroflex-stomach,Pylorus,1,0.5235602094240838
+black,control: text area moved,Ulcerative-colitis,Polyps,1,0.4694835680751174
+black,control: text area moved,Z-line,Z-line,1,0.4291845493562232
+black,green box,Cecum,Polyps,189,74.70355731225297
+black,green box,Bbps-2-3,Ulcerative-colitis,28,9.75609756097561
+black,green box,Cecum,Ulcerative-colitis,19,7.509881422924901
+black,green box,Bbps-2-3,Polyps,6,2.0905923344947737
+black,green box,Dyed-lifted-polyps,Polyps,5,1.9920318725099602
+black,green box,Dyed-lifted-polyps,Dyed-lifted-polyps,3,1.1952191235059761
+black,green box,Dyed-resection-margins,Dyed-lifted-polyps,3,1.2096774193548387
+black,green box,Ulcerative-colitis,Polyps,3,1.408450704225352
+black,green box,Bbps-0-1,Ulcerative-colitis,2,1.2345679012345678
+black,green box,Bbps-0-1,Polyps,1,0.6172839506172839
+black,green box,Dyed-lifted-polyps,Dyed-resection-margins,1,0.398406374501992
+black,green box,Dyed-resection-margins,Polyps,1,0.4032258064516129
+black,green box,Dyed-resection-margins,Ulcerative-colitis,1,0.4032258064516129
+black,green box,Ulcerative-colitis,Ulcerative-colitis,1,0.4694835680751174
+inpaint,border text/graphics,Dyed-lifted-polyps,Dyed-resection-margins,9,3.585657370517928
+inpaint,border text/graphics,Retroflex-rectum,Ulcerative-colitis,8,8.16326530612245
+inpaint,border text/graphics,Dyed-resection-margins,Dyed-resection-margins,6,2.4193548387096775
+inpaint,border text/graphics,Z-line,Esophagitis,4,1.7167381974248928
+inpaint,border text/graphics,Bbps-2-3,Ulcerative-colitis,3,1.0452961672473868
+inpaint,border text/graphics,Esophagitis,Esophagitis,3,1.8072289156626506
+inpaint,border text/graphics,Bbps-2-3,Z-line,2,0.6968641114982579
+inpaint,border text/graphics,Cecum,Ulcerative-colitis,2,0.7905138339920948
+inpaint,border text/graphics,Retroflex-rectum,Z-line,2,2.0408163265306123
+inpaint,border text/graphics,Ulcerative-colitis,Polyps,2,0.9389671361502347
+inpaint,border text/graphics,Ulcerative-colitis,Ulcerative-colitis,2,0.9389671361502347
+inpaint,border text/graphics,Bbps-2-3,Cecum,1,0.34843205574912894
+inpaint,border text/graphics,Bbps-2-3,Polyps,1,0.34843205574912894
+inpaint,border text/graphics,Dyed-lifted-polyps,Dyed-lifted-polyps,1,0.398406374501992
+inpaint,border text/graphics,Dyed-lifted-polyps,Polyps,1,0.398406374501992
+inpaint,border text/graphics,Dyed-resection-margins,Dyed-lifted-polyps,1,0.4032258064516129
+inpaint,border text/graphics,Dyed-resection-margins,Esophagitis,1,0.4032258064516129
+inpaint,border text/graphics,Pylorus,Esophagitis,1,0.4
+inpaint,border text/graphics,Retroflex-rectum,Cecum,1,1.0204081632653061
+inpaint,border text/graphics,Retroflex-rectum,Dyed-lifted-polyps,1,1.0204081632653061
+inpaint,border text/graphics,Retroflex-rectum,Retroflex-stomach,1,1.0204081632653061
+inpaint,border text/graphics,Retroflex-stomach,Pylorus,1,0.5235602094240838
+inpaint,border text/graphics,Ulcerative-colitis,Cecum,1,0.4694835680751174
+inpaint,border text/graphics,Z-line,Polyps,1,0.4291845493562232
+inpaint,both overlays,Bbps-2-3,Ulcerative-colitis,119,41.46341463414634
+inpaint,both overlays,Bbps-2-3,Polyps,86,29.965156794425088
+inpaint,both overlays,Cecum,Polyps,69,27.272727272727273
+inpaint,both overlays,Cecum,Ulcerative-colitis,31,12.25296442687747
+inpaint,both overlays,Bbps-2-3,Esophagitis,17,5.923344947735192
+inpaint,both overlays,Bbps-2-3,Pylorus,15,5.2264808362369335
+inpaint,both overlays,Dyed-lifted-polyps,Dyed-resection-margins,14,5.577689243027889
+inpaint,both overlays,Cecum,Bbps-0-1,6,2.3715415019762847
+inpaint,both overlays,Dyed-resection-margins,Dyed-resection-margins,6,2.4193548387096775
+inpaint,both overlays,Cecum,Pylorus,5,1.976284584980237
+inpaint,both overlays,Bbps-2-3,Retroflex-rectum,4,1.3937282229965158
+inpaint,both overlays,Dyed-lifted-polyps,Esophagitis,4,1.593625498007968
+inpaint,both overlays,Dyed-resection-margins,Esophagitis,4,1.6129032258064515
+inpaint,both overlays,Retroflex-rectum,Ulcerative-colitis,4,4.081632653061225
+inpaint,both overlays,Ulcerative-colitis,Ulcerative-colitis,4,1.8779342723004695
+inpaint,both overlays,Z-line,Esophagitis,4,1.7167381974248928
+inpaint,both overlays,Bbps-2-3,Z-line,3,1.0452961672473868
+inpaint,both overlays,Dyed-lifted-polyps,Polyps,3,1.1952191235059761
+inpaint,both overlays,Dyed-resection-margins,Dyed-lifted-polyps,3,1.2096774193548387
+inpaint,both overlays,Esophagitis,Esophagitis,3,1.8072289156626506
+inpaint,both overlays,Ulcerative-colitis,Polyps,3,1.408450704225352
+inpaint,both overlays,Bbps-0-1,Ulcerative-colitis,2,1.2345679012345678
+inpaint,both overlays,Bbps-2-3,Bbps-0-1,2,0.6968641114982579
+inpaint,both overlays,Bbps-2-3,Retroflex-stomach,2,0.6968641114982579
+inpaint,both overlays,Retroflex-rectum,Esophagitis,2,2.0408163265306123
+inpaint,both overlays,Retroflex-rectum,Z-line,2,2.0408163265306123
+inpaint,both overlays,Bbps-0-1,Polyps,1,0.6172839506172839
+inpaint,both overlays,Cecum,Esophagitis,1,0.3952569169960474
+inpaint,both overlays,Cecum,Retroflex-rectum,1,0.3952569169960474
+inpaint,both overlays,Cecum,Retroflex-stomach,1,0.3952569169960474
+inpaint,both overlays,Dyed-resection-margins,Bbps-0-1,1,0.4032258064516129
+inpaint,both overlays,Pylorus,Esophagitis,1,0.4
+inpaint,both overlays,Retroflex-rectum,Dyed-lifted-polyps,1,1.0204081632653061
+inpaint,both overlays,Retroflex-rectum,Polyps,1,1.0204081632653061
+inpaint,both overlays,Retroflex-rectum,Retroflex-stomach,1,1.0204081632653061
+inpaint,both overlays,Retroflex-stomach,Pylorus,1,0.5235602094240838
+inpaint,both overlays,Ulcerative-colitis,Retroflex-rectum,1,0.4694835680751174
+inpaint,both overlays,Ulcerative-colitis,Z-line,1,0.4694835680751174
+inpaint,both overlays,Z-line,Polyps,1,0.4291845493562232
+inpaint,control: green-box shape moved,Dyed-lifted-polyps,Dyed-resection-margins,21,8.366533864541832
+inpaint,control: green-box shape moved,Dyed-resection-margins,Dyed-lifted-polyps,10,4.032258064516129
+inpaint,control: green-box shape moved,Ulcerative-colitis,Cecum,4,1.8779342723004695
+inpaint,control: green-box shape moved,Dyed-lifted-polyps,Dyed-lifted-polyps,2,0.796812749003984
+inpaint,control: green-box shape moved,Dyed-resection-margins,Dyed-resection-margins,2,0.8064516129032258
+inpaint,control: green-box shape moved,Cecum,Cecum,1,0.3952569169960474
+inpaint,control: green-box shape moved,Cecum,Ulcerative-colitis,1,0.3952569169960474
+inpaint,control: green-box shape moved,Retroflex-rectum,Ulcerative-colitis,1,1.0204081632653061
+inpaint,control: text area moved,Dyed-lifted-polyps,Dyed-resection-margins,9,3.585657370517928
+inpaint,control: text area moved,Dyed-resection-margins,Dyed-lifted-polyps,3,1.2096774193548387
+inpaint,control: text area moved,Z-line,Esophagitis,3,1.2875536480686696
+inpaint,control: text area moved,Z-line,Z-line,3,1.2875536480686696
+inpaint,control: text area moved,Dyed-resection-margins,Dyed-resection-margins,2,0.8064516129032258
+inpaint,control: text area moved,Esophagitis,Esophagitis,2,1.2048192771084338
+inpaint,control: text area moved,Ulcerative-colitis,Cecum,2,0.9389671361502347
+inpaint,control: text area moved,Ulcerative-colitis,Ulcerative-colitis,2,0.9389671361502347
+inpaint,control: text area moved,Dyed-lifted-polyps,Polyps,1,0.398406374501992
+inpaint,control: text area moved,Dyed-lifted-polyps,Ulcerative-colitis,1,0.398406374501992
+inpaint,control: text area moved,Dyed-resection-margins,Cecum,1,0.4032258064516129
+inpaint,control: text area moved,Esophagitis,Z-line,1,0.6024096385542169
+inpaint,control: text area moved,Polyps,Bbps-0-1,1,0.38910505836575876
+inpaint,control: text area moved,Polyps,Retroflex-rectum,1,0.38910505836575876
+inpaint,control: text area moved,Pylorus,Ulcerative-colitis,1,0.4
+inpaint,control: text area moved,Retroflex-rectum,Ulcerative-colitis,1,1.0204081632653061
+inpaint,control: text area moved,Retroflex-stomach,Pylorus,1,0.5235602094240838
+inpaint,control: text area moved,Retroflex-stomach,Z-line,1,0.5235602094240838
+inpaint,control: text area moved,Ulcerative-colitis,Polyps,1,0.4694835680751174
+inpaint,control: text area moved,Ulcerative-colitis,Retroflex-rectum,1,0.4694835680751174
+inpaint,green box,Cecum,Polyps,61,24.110671936758894
+inpaint,green box,Cecum,Ulcerative-colitis,38,15.019762845849803
+inpaint,green box,Bbps-2-3,Ulcerative-colitis,13,4.529616724738676
+inpaint,green box,Dyed-resection-margins,Dyed-resection-margins,5,2.0161290322580645
+inpaint,green box,Cecum,Bbps-0-1,4,1.5810276679841897
+inpaint,green box,Dyed-lifted-polyps,Dyed-resection-margins,2,0.796812749003984
+inpaint,green box,Ulcerative-colitis,Ulcerative-colitis,2,0.9389671361502347
+inpaint,green box,Bbps-0-1,Polyps,1,0.6172839506172839
+inpaint,green box,Dyed-lifted-polyps,Dyed-lifted-polyps,1,0.398406374501992
+inpaint,green box,Dyed-lifted-polyps,Polyps,1,0.398406374501992
+inpaint,green box,Dyed-lifted-polyps,Ulcerative-colitis,1,0.398406374501992
+inpaint,green box,Dyed-resection-margins,Dyed-lifted-polyps,1,0.4032258064516129
+inpaint,green box,Dyed-resection-margins,Ulcerative-colitis,1,0.4032258064516129
+inpaint,green box,Ulcerative-colitis,Polyps,1,0.4694835680751174
+inpaint,green box,Ulcerative-colitis,Retroflex-rectum,1,0.4694835680751174

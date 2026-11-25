@@ -1,0 +1,9 @@
+row,class,class_display,file,path,p_true_class
+1,dyed-lifted-polyps,Dyed-lifted-polyps,778a8bd4-94ca-4286-911b-101696786a4d.jpg,/kaggle/input/datasets/subhajeetdas/kvasir-v2-gastrointestinal-image-dataset/KVASIR V2/dyed-lifted-polyps/778a8bd4-94ca-4286-911b-101696786a4d.jpg,0.9667198657989502
+2,dyed-resection-margins,Dyed-resection-margins,d6571415-2f0f-411f-858a-2f59a35ec183.jpg,/kaggle/input/datasets/subhajeetdas/kvasir-v2-gastrointestinal-image-dataset/KVASIR V2/dyed-resection-margins/d6571415-2f0f-411f-858a-2f59a35ec183.jpg,0.9724450707435608
+3,esophagitis,Esophagitis,d60e2332-abfd-43bd-8072-df0de26ed52c.jpg,/kaggle/input/datasets/subhajeetdas/kvasir-v2-gastrointestinal-image-dataset/KVASIR V2/esophagitis/d60e2332-abfd-43bd-8072-df0de26ed52c.jpg,0.9665846228599548
+4,normal-cecum,Normal-cecum,4ef35e8f-cc3b-4ab5-a388-5c2527205f3f.jpg,/kaggle/input/datasets/subhajeetdas/kvasir-v2-gastrointestinal-image-dataset/KVASIR V2/normal-cecum/4ef35e8f-cc3b-4ab5-a388-5c2527205f3f.jpg,0.9720841646194458
+5,normal-pylorus,Normal-pylorus,b69a591a-d4d3-42b6-8168-53df17b5aad9.jpg,/kaggle/input/datasets/subhajeetdas/kvasir-v2-gastrointestinal-image-dataset/KVASIR V2/normal-pylorus/b69a591a-d4d3-42b6-8168-53df17b5aad9.jpg,0.9670910835266113
+6,normal-z-line,Normal-z-line,cdc1ede5-5270-43af-9098-0d7b3d0ebca0.jpg,/kaggle/input/datasets/subhajeetdas/kvasir-v2-gastrointestinal-image-dataset/KVASIR V2/normal-z-line/cdc1ede5-5270-43af-9098-0d7b3d0ebca0.jpg,0.9667219519615173
+7,polyps,Polyps,7e5fd908-7bf8-4171-99af-196c8fdf0624.jpg,/kaggle/input/datasets/subhajeetdas/kvasir-v2-gastrointestinal-image-dataset/KVASIR V2/polyps/7e5fd908-7bf8-4171-99af-196c8fdf0624.jpg,0.9658236503601074
+8,ulcerative-colitis,Ulcerative-colitis,a96ec566-872c-4b7a-a14d-132945c0d357.jpg,/kaggle/input/datasets/subhajeetdas/kvasir-v2-gastrointestinal-image-dataset/KVASIR V2/ulcerative-colitis/a96ec566-872c-4b7a-a14d-132945c0d357.jpg,0.9735721349716187

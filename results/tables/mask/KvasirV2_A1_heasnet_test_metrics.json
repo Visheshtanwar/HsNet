@@ -1,0 +1,17 @@
+{
+  "dataset": "Kvasir-V2",
+  "n_test": 1200,
+  "correct": 1100,
+  "accuracy": 0.9166666666666666,
+  "accuracy_wilson_95CI": [
+    0.899667852629016,
+    0.9310063135353717
+  ],
+  "macro_precision": 0.9189028733051567,
+  "macro_recall": 0.9166666666666667,
+  "macro_f1": 0.9164364118488464,
+  "cohen_kappa": 0.9047619047619048,
+  "mcc": 0.9051527852838555,
+  "macro_auc_ovr": 0.9834285714285713,
+  "identical_to_saved_predictions": 1200
+}

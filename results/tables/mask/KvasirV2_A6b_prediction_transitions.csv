@@ -1,0 +1,142 @@
+fill,masked_region,true_class,new_prediction,images,%_of_true_class
+black,border text/graphics,Dyed-lifted-polyps,Dyed-resection-margins,7,4.666666666666667
+black,border text/graphics,Polyps,Ulcerative-colitis,5,3.3333333333333335
+black,border text/graphics,Esophagitis,Esophagitis,3,2.0
+black,border text/graphics,Dyed-lifted-polyps,Dyed-lifted-polyps,2,1.3333333333333333
+black,border text/graphics,Dyed-resection-margins,Dyed-lifted-polyps,2,1.3333333333333333
+black,border text/graphics,Normal-z-line,Esophagitis,2,1.3333333333333333
+black,border text/graphics,Polyps,Normal-cecum,2,1.3333333333333333
+black,border text/graphics,Ulcerative-colitis,Ulcerative-colitis,2,1.3333333333333333
+black,border text/graphics,Dyed-lifted-polyps,Ulcerative-colitis,1,0.6666666666666666
+black,border text/graphics,Dyed-resection-margins,Dyed-resection-margins,1,0.6666666666666666
+black,border text/graphics,Normal-cecum,Ulcerative-colitis,1,0.6666666666666666
+black,border text/graphics,Normal-pylorus,Normal-pylorus,1,0.6666666666666666
+black,border text/graphics,Polyps,Dyed-lifted-polyps,1,0.6666666666666666
+black,border text/graphics,Polyps,Polyps,1,0.6666666666666666
+black,both overlays,Normal-cecum,Ulcerative-colitis,28,18.666666666666668
+black,both overlays,Dyed-lifted-polyps,Dyed-resection-margins,7,4.666666666666667
+black,both overlays,Dyed-resection-margins,Dyed-lifted-polyps,5,3.3333333333333335
+black,both overlays,Polyps,Ulcerative-colitis,5,3.3333333333333335
+black,both overlays,Ulcerative-colitis,Ulcerative-colitis,5,3.3333333333333335
+black,both overlays,Polyps,Polyps,4,2.6666666666666665
+black,both overlays,Esophagitis,Esophagitis,3,2.0
+black,both overlays,Normal-cecum,Polyps,3,2.0
+black,both overlays,Dyed-lifted-polyps,Dyed-lifted-polyps,2,1.3333333333333333
+black,both overlays,Normal-z-line,Esophagitis,2,1.3333333333333333
+black,both overlays,Dyed-lifted-polyps,Normal-z-line,1,0.6666666666666666
+black,both overlays,Dyed-lifted-polyps,Polyps,1,0.6666666666666666
+black,both overlays,Dyed-lifted-polyps,Ulcerative-colitis,1,0.6666666666666666
+black,both overlays,Dyed-resection-margins,Dyed-resection-margins,1,0.6666666666666666
+black,both overlays,Normal-cecum,Normal-pylorus,1,0.6666666666666666
+black,both overlays,Normal-pylorus,Normal-pylorus,1,0.6666666666666666
+black,both overlays,Polyps,Dyed-lifted-polyps,1,0.6666666666666666
+black,both overlays,Polyps,Normal-cecum,1,0.6666666666666666
+black,control: green-box shape moved,Dyed-resection-margins,Dyed-lifted-polyps,8,5.333333333333333
+black,control: green-box shape moved,Dyed-lifted-polyps,Dyed-resection-margins,6,4.0
+black,control: green-box shape moved,Polyps,Ulcerative-colitis,4,2.6666666666666665
+black,control: green-box shape moved,Polyps,Normal-cecum,3,2.0
+black,control: green-box shape moved,Ulcerative-colitis,Ulcerative-colitis,3,2.0
+black,control: green-box shape moved,Dyed-lifted-polyps,Dyed-lifted-polyps,2,1.3333333333333333
+black,control: green-box shape moved,Dyed-resection-margins,Normal-cecum,1,0.6666666666666666
+black,control: green-box shape moved,Ulcerative-colitis,Normal-cecum,1,0.6666666666666666
+black,control: text area moved,Dyed-resection-margins,Dyed-lifted-polyps,7,4.666666666666667
+black,control: text area moved,Esophagitis,Esophagitis,7,4.666666666666667
+black,control: text area moved,Normal-z-line,Esophagitis,6,4.0
+black,control: text area moved,Polyps,Ulcerative-colitis,6,4.0
+black,control: text area moved,Dyed-lifted-polyps,Dyed-resection-margins,3,2.0
+black,control: text area moved,Normal-z-line,Normal-z-line,3,2.0
+black,control: text area moved,Esophagitis,Normal-z-line,2,1.3333333333333333
+black,control: text area moved,Normal-pylorus,Esophagitis,2,1.3333333333333333
+black,control: text area moved,Polyps,Normal-cecum,2,1.3333333333333333
+black,control: text area moved,Normal-cecum,Ulcerative-colitis,1,0.6666666666666666
+black,control: text area moved,Normal-pylorus,Normal-pylorus,1,0.6666666666666666
+black,control: text area moved,Normal-z-line,Normal-pylorus,1,0.6666666666666666
+black,control: text area moved,Polyps,Normal-pylorus,1,0.6666666666666666
+black,control: text area moved,Ulcerative-colitis,Normal-pylorus,1,0.6666666666666666
+black,control: text area moved,Ulcerative-colitis,Polyps,1,0.6666666666666666
+black,green box,Normal-cecum,Ulcerative-colitis,27,18.0
+black,green box,Dyed-lifted-polyps,Dyed-resection-margins,4,2.6666666666666665
+black,green box,Normal-cecum,Polyps,4,2.6666666666666665
+black,green box,Polyps,Polyps,4,2.6666666666666665
+black,green box,Ulcerative-colitis,Ulcerative-colitis,4,2.6666666666666665
+black,green box,Dyed-resection-margins,Dyed-lifted-polyps,2,1.3333333333333333
+black,green box,Polyps,Ulcerative-colitis,2,1.3333333333333333
+black,green box,Dyed-lifted-polyps,Dyed-lifted-polyps,1,0.6666666666666666
+black,green box,Dyed-resection-margins,Dyed-resection-margins,1,0.6666666666666666
+inpaint,border text/graphics,Dyed-lifted-polyps,Dyed-resection-margins,7,4.666666666666667
+inpaint,border text/graphics,Dyed-resection-margins,Dyed-lifted-polyps,4,2.6666666666666665
+inpaint,border text/graphics,Esophagitis,Normal-z-line,4,2.6666666666666665
+inpaint,border text/graphics,Dyed-resection-margins,Dyed-resection-margins,3,2.0
+inpaint,border text/graphics,Normal-z-line,Esophagitis,3,2.0
+inpaint,border text/graphics,Polyps,Normal-cecum,3,2.0
+inpaint,border text/graphics,Polyps,Ulcerative-colitis,3,2.0
+inpaint,border text/graphics,Ulcerative-colitis,Normal-cecum,3,2.0
+inpaint,border text/graphics,Esophagitis,Esophagitis,2,1.3333333333333333
+inpaint,border text/graphics,Ulcerative-colitis,Ulcerative-colitis,2,1.3333333333333333
+inpaint,border text/graphics,Dyed-lifted-polyps,Ulcerative-colitis,1,0.6666666666666666
+inpaint,border text/graphics,Normal-pylorus,Normal-pylorus,1,0.6666666666666666
+inpaint,border text/graphics,Normal-pylorus,Ulcerative-colitis,1,0.6666666666666666
+inpaint,border text/graphics,Polyps,Dyed-lifted-polyps,1,0.6666666666666666
+inpaint,border text/graphics,Ulcerative-colitis,Dyed-resection-margins,1,0.6666666666666666
+inpaint,both overlays,Normal-cecum,Ulcerative-colitis,31,20.666666666666668
+inpaint,both overlays,Dyed-lifted-polyps,Dyed-resection-margins,8,5.333333333333333
+inpaint,both overlays,Ulcerative-colitis,Ulcerative-colitis,6,4.0
+inpaint,both overlays,Dyed-resection-margins,Dyed-lifted-polyps,4,2.6666666666666665
+inpaint,both overlays,Esophagitis,Normal-z-line,4,2.6666666666666665
+inpaint,both overlays,Normal-cecum,Polyps,4,2.6666666666666665
+inpaint,both overlays,Polyps,Polyps,4,2.6666666666666665
+inpaint,both overlays,Polyps,Ulcerative-colitis,4,2.6666666666666665
+inpaint,both overlays,Dyed-resection-margins,Dyed-resection-margins,3,2.0
+inpaint,both overlays,Normal-z-line,Esophagitis,3,2.0
+inpaint,both overlays,Dyed-lifted-polyps,Ulcerative-colitis,2,1.3333333333333333
+inpaint,both overlays,Esophagitis,Esophagitis,2,1.3333333333333333
+inpaint,both overlays,Dyed-lifted-polyps,Polyps,1,0.6666666666666666
+inpaint,both overlays,Normal-pylorus,Normal-pylorus,1,0.6666666666666666
+inpaint,both overlays,Normal-pylorus,Ulcerative-colitis,1,0.6666666666666666
+inpaint,both overlays,Polyps,Dyed-lifted-polyps,1,0.6666666666666666
+inpaint,both overlays,Polyps,Normal-cecum,1,0.6666666666666666
+inpaint,both overlays,Ulcerative-colitis,Dyed-resection-margins,1,0.6666666666666666
+inpaint,both overlays,Ulcerative-colitis,Normal-cecum,1,0.6666666666666666
+inpaint,control: green-box shape moved,Dyed-lifted-polyps,Dyed-resection-margins,8,5.333333333333333
+inpaint,control: green-box shape moved,Polyps,Ulcerative-colitis,7,4.666666666666667
+inpaint,control: green-box shape moved,Dyed-resection-margins,Dyed-lifted-polyps,3,2.0
+inpaint,control: green-box shape moved,Polyps,Polyps,3,2.0
+inpaint,control: green-box shape moved,Normal-cecum,Polyps,2,1.3333333333333333
+inpaint,control: green-box shape moved,Polyps,Normal-cecum,2,1.3333333333333333
+inpaint,control: green-box shape moved,Dyed-lifted-polyps,Dyed-lifted-polyps,1,0.6666666666666666
+inpaint,control: green-box shape moved,Dyed-lifted-polyps,Normal-cecum,1,0.6666666666666666
+inpaint,control: green-box shape moved,Dyed-lifted-polyps,Polyps,1,0.6666666666666666
+inpaint,control: green-box shape moved,Dyed-resection-margins,Dyed-resection-margins,1,0.6666666666666666
+inpaint,control: green-box shape moved,Dyed-resection-margins,Normal-cecum,1,0.6666666666666666
+inpaint,control: green-box shape moved,Ulcerative-colitis,Polyps,1,0.6666666666666666
+inpaint,control: green-box shape moved,Ulcerative-colitis,Ulcerative-colitis,1,0.6666666666666666
+inpaint,control: text area moved,Esophagitis,Normal-z-line,9,6.0
+inpaint,control: text area moved,Dyed-lifted-polyps,Dyed-resection-margins,8,5.333333333333333
+inpaint,control: text area moved,Normal-z-line,Esophagitis,6,4.0
+inpaint,control: text area moved,Dyed-resection-margins,Dyed-lifted-polyps,4,2.6666666666666665
+inpaint,control: text area moved,Polyps,Ulcerative-colitis,4,2.6666666666666665
+inpaint,control: text area moved,Esophagitis,Esophagitis,3,2.0
+inpaint,control: text area moved,Normal-z-line,Normal-z-line,3,2.0
+inpaint,control: text area moved,Polyps,Normal-cecum,3,2.0
+inpaint,control: text area moved,Normal-cecum,Polyps,2,1.3333333333333333
+inpaint,control: text area moved,Ulcerative-colitis,Polyps,2,1.3333333333333333
+inpaint,control: text area moved,Dyed-lifted-polyps,Dyed-lifted-polyps,1,0.6666666666666666
+inpaint,control: text area moved,Dyed-lifted-polyps,Polyps,1,0.6666666666666666
+inpaint,control: text area moved,Dyed-resection-margins,Normal-z-line,1,0.6666666666666666
+inpaint,control: text area moved,Esophagitis,Normal-pylorus,1,0.6666666666666666
+inpaint,control: text area moved,Esophagitis,Ulcerative-colitis,1,0.6666666666666666
+inpaint,control: text area moved,Normal-pylorus,Esophagitis,1,0.6666666666666666
+inpaint,control: text area moved,Normal-pylorus,Normal-pylorus,1,0.6666666666666666
+inpaint,control: text area moved,Polyps,Polyps,1,0.6666666666666666
+inpaint,control: text area moved,Ulcerative-colitis,Normal-cecum,1,0.6666666666666666
+inpaint,control: text area moved,Ulcerative-colitis,Normal-pylorus,1,0.6666666666666666
+inpaint,control: text area moved,Ulcerative-colitis,Ulcerative-colitis,1,0.6666666666666666
+inpaint,green box,Normal-cecum,Ulcerative-colitis,26,17.333333333333332
+inpaint,green box,Normal-cecum,Polyps,5,3.3333333333333335
+inpaint,green box,Polyps,Polyps,5,3.3333333333333335
+inpaint,green box,Ulcerative-colitis,Ulcerative-colitis,5,3.3333333333333335
+inpaint,green box,Dyed-lifted-polyps,Dyed-resection-margins,3,2.0
+inpaint,green box,Dyed-resection-margins,Dyed-lifted-polyps,3,2.0
+inpaint,green box,Polyps,Ulcerative-colitis,2,1.3333333333333333
+inpaint,green box,Dyed-lifted-polyps,Dyed-lifted-polyps,1,0.6666666666666666
+inpaint,green box,Dyed-resection-margins,Dyed-resection-margins,1,0.6666666666666666

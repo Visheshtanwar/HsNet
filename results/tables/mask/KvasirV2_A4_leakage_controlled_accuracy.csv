@@ -1,0 +1,2 @@
+model,all_%,with_duplicate_%,no_duplicate_%,no_duplicate_CI95,fisher_p_dup_vs_nodup
+HEASNet (proposed),91.66666666666666,89.9497487437186,92.00799200799202,90.16-93.53,0.3274767305671378

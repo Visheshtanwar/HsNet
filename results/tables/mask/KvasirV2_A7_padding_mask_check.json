@@ -1,0 +1,13 @@
+{
+  "padding": "7x7 map zero-padded to 8x8 (15 of 64 positions); trained WITHOUT key masking",
+  "accuracy_as_trained_%": 91.66666666666666,
+  "accuracy_padded_keys_masked_%": 91.66666666666666,
+  "predictions_changed": 2,
+  "mean_abs_prob_change": 0.00405350374057889,
+  "both_correct": 1099,
+  "HEASNet_only": 1,
+  "other_only": 1,
+  "both_wrong": 99,
+  "discordant": 2,
+  "exact_p": 1.0
+}
