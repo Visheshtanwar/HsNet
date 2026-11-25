@@ -1,0 +1,4 @@
+split,images_non-carcinoma,images_carcinoma,carcinoma only,mixed,non-carcinoma only,unique_specimens
+test,97,90,13,2,21,36
+train,502,568,64,13,99,176
+val,116,137,14,3,21,38

@@ -1,0 +1,3 @@
+row,class,class_display,file,path,p_true_class
+1,Non-carcinoma,Non-carcinoma,GTXC2015381-1-400-004.png,/kaggle/input/datasets/orvile/ebhi-seg-colorectal-cancer/EBHI-SEG/Low-grade IN/image/GTXC2015381-1-400-004.png,0.983020007610321
+2,Carcinoma,Carcinoma,GT2016893-1-400-005.png,/kaggle/input/datasets/orvile/ebhi-seg-colorectal-cancer/EBHI-SEG/Adenocarcinoma/image/GT2016893-1-400-005.png,0.9827737808227539

@@ -1,0 +1,19 @@
+{
+  "n_images": 20,
+  "images_per_class": 10,
+  "selection": "random correctly classified test images (seed 42)",
+  "del": {
+    "gradcam_auc_mean": 0.6855924535682425,
+    "random_auc_mean": 0.7921902461256832,
+    "better_is": "lower",
+    "fraction_images_gradcam_better": 0.8,
+    "wilcoxon_p": 0.000850677490234375
+  },
+  "ins": {
+    "gradcam_auc_mean": 0.7943453174456955,
+    "random_auc_mean": 0.8060112663498149,
+    "better_is": "higher",
+    "fraction_images_gradcam_better": 0.45,
+    "wilcoxon_p": 0.7841262817382812
+  }
+}

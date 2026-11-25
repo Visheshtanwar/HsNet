@@ -1,0 +1,12 @@
+{
+  "checkpoint": "HyperKvasir/best_HEASNet.pt (12-class final HEASNet, test accuracy 95.02%)",
+  "state_dict_tensors_transferred": 797,
+  "state_dict_tensors_total": 799,
+  "of_which_parameters_transferred": 467,
+  "parameters_total": 469,
+  "of_which_buffers_transferred (BatchNorm running mean/var/num_batches_tracked)": 330,
+  "reinitialised": [
+    "classifier.weight",
+    "classifier.bias"
+  ]
+}

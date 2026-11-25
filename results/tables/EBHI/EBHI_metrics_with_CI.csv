@@ -1,0 +1,23 @@
+model,HEASNet (proposed)
+test_images,187
+test_images_non-carcinoma,97
+test_images_carcinoma,90
+test_specimens_unique,36
+specimens_non-carcinoma_only,21
+specimens_carcinoma_only,13
+specimens_with_both_labels,2
+accuracy_%,95.72192513368984
+acc_CI95_wilson,91.79-97.82
+sensitivity_%,94.44444444444444
+sens_CI95,87.65-97.60
+specificity_%,96.90721649484536
+spec_CI95,91.30-98.94
+F1,0.9550561797752809
+MCC,0.9144598379450343
+AUC,0.9948453608247423
+AUC_CI95_image_bootstrap,0.9883-0.9992
+AUC_CI95_specimen_cluster_bootstrap,0.9856-0.9997
+specimen_level_AUC (mean probability per specimen; specimen = carcinoma if any image is),1.0
+specimen_level_accuracy_%,97.22222222222221
+spec_acc_CI95,85.83-99.51
+errors,3 FP / 5 FN
